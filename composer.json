@@ -1,0 +1,13 @@
+{
+    "name": "elephantsgroup/eg-ckeditor",
+    "description": "JavaScript WYSIWYG web text editor.",
+    "keywords": [ "ckeditor", "fckeditor", "editor", "wysiwyg", "html", "richtext", "text", "javascript", "elephantsGroup"],
+    "homepage": "http://elephantsgroup.com",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jalal Jaberi",
+            "email": "proodoo@gmail.com"
+        }
+    ],
+}
